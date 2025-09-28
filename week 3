@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to My Photography Site</title>
+</head>
+<body>
+    <h1>Welcome to My Photography Hobby</h1>
+    <p>Explore the art and craft of photography! Use the links below to explore gear, techniques, and sample photos.</p>
+
+    <nav>
+        <ul>
+            <li><a href="gear.html">Photography Gear</a></li>
+            <li><a href="techniques.html">Techniques</a></li>
+            <li><a href="gallery.html">Photo Gallery</a></li>
+            <li><a href="resources.html">Resources</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Photography Gear</title>
+</head>
+<body>
+    <h1>Photography Gear</h1>
+    <p>Essential gear for any photographer:</p>
+
+    <ul>
+        <li><strong>Cameras</strong> – DSLRs, mirrorless, point-and-shoot</li>
+        <li><strong>Lenses</strong> – Wide-angle, prime, telephoto</li>
+        <li><strong>Accessories</strong> – Tripods, filters, SD cards, camera bags</li>
+    </ul>
+
+    <img src="images/camera.jpg" alt="Professional DSLR Camera" width="400">
+
+    <p><a href="index.html">Return to Home</a></p>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Photography Techniques</title>
+</head>
+<body>
+    <h1>Photography Techniques</h1>
+    <p>Mastering techniques improves your photos dramatically:</p>
+
+    <h2>Basic Tips</h2>
+    <ul>
+        <li>Use the rule of thirds</li>
+        <li>Focus on lighting</li>
+        <li>Understand your camera settings (ISO, shutter, aperture)</li>
+    </ul>
+
+    <h2>Popular Styles</h2>
+    <ul>
+        <li>Landscape</li>
+        <li>Portrait</li>
+        <li>Street Photography</li>
+        <li>Macro</li>
+    </ul>
+
+    <img src="images/landscape.jpg" alt="Landscape Photography Example" width="400">
+
+    <p><a href="index.html">Return to Home</a></p>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Photo Gallery</title>
+</head>
+<body>
+    <h1>My Photo Gallery</h1>
+    <p>Here are some of my favorite shots:</p>
+
+    <figure>
+        <img src="file:///C:/Users/lpcun/AppData/Local/Temp/7d236a7d-d9c3-409c-b1ad-2b3c72375806_converted_2_files.zip.806/IMG_9825.JPG.html" alt="close up of berries on a tree" width="300">
+        <figcaption>Natural light portrait</figcaption>
+    </figure>
+
+    <figure>
+        <img src="file:///C:/Users/lpcun/AppData/Local/Temp/e4510618-2321-41ce-9b1b-efcd266093e6_converted_5_files.zip.3e6/IMG_9698.JPG.html" alt="water with trees" width="300">
+        <figcaption>Macro shot of a flower</figcaption>
+    </figure>
+
+    <p><a href="index.html">Return to Home</a></p>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Photography Resources</title>
+</head>
+<body>
+    <h1>Photography Resources</h1>
+    <p>Learn more and improve your photography skills:</p>
+
+    <ul>
+        <li><a href="https://photographylife.com/photography-tips-for-beginners" target="_blank">tips</a></li>
+        <li><a href="https://photographylife.com/" target="_blank">Photography Life</a></li>
+        <li><a href="https://www.dpreview.com/" target="_blank">DPReview</a></li>
+        <li><a href="https://fstoppers.com/" target="_blank">Fstoppers</a></li>
+        
+    </ul>
+
+    <img src="images/resources.jpg" alt="Photography books and resources" width="400">
+
+    <p><a href="index.html">Return to Home</a></p>
+</body>
+</html>
